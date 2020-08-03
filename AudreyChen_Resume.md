@@ -7,9 +7,9 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 - Wide varieties of project experiences in Big Data(Hadoop).
 
 ## Education
-Coding Bootcamp, LaiOffer, USA                                                        2020 - 2020
-Computer Programming Certificate, UCSC Silicon Valley Extension, USA                  2018 - 2018
-Master in TESOL, University of Southern California, USA                               2015 - 2017
+* Coding Bootcamp, LaiOffer, USA                                                        2020 - 2020
+* Computer Programming Certificate, UCSC Silicon Valley Extension, USA                  2018 - 2018
+* Master in TESOL, University of Southern California, USA                               2015 - 2017
 
 ## Skills
 
