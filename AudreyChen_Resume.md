@@ -13,13 +13,8 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 
 ## Skills
 
-* Proficient:
-** Java 
-* Familiar:
-** Python
-** PHP
-** JavaScript
-** HTML
+* Proficient: Java 
+* Familiar: Python, PHP, JavaScript, HTML
 
 ## Relevant Coursework
 
