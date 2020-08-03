@@ -47,7 +47,7 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 - Improve **75%** of the performance by filtering the threshold of the Mapper output.
 - Present the result in website with **AJAX and PHP**.
 
-**Project: OFFICE VISITOR LOG SYSTEM
+**Project:** OFFICE VISITOR LOG SYSTEM
 
 - Design a visitors log-in system for office use.
 - Implemented a CRUD (Create/Read/Update/Delete) for office administrator to manage tracking history.
