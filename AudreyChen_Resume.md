@@ -1,17 +1,17 @@
-### Audrey Chen
+# Audrey Chen
 
 Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/in/audrec/
-# Summary
+## Summary
 - Strong programming skills of Data Structure and algorithm in JAVA.
 - Knowledge about Hadoop and large data technique.
 - Wide varieties of project experiences in Big Data(Hadoop).
 
-# Education
+## Education
 Coding Bootcamp, LaiOffer, USA                                                        2020 - 2020
 Computer Programming Certificate, UCSC Silicon Valley Extension, USA                  2018 - 2018
 Master in TESOL, University of Southern California, USA                               2015 - 2017
 
-# Skills
+## Skills
 
 * Proficient:
 ** Java 
@@ -21,7 +21,7 @@ Master in TESOL, University of Southern California, USA                         
 ** JavaScript
 ** HTML
 
-# Relevant Coursework
+## Relevant Coursework
 
 * UXWD.X410 HTML - 4.0
 * IPDV.X404 Web Programming: JavaScript and PHP - 4.0
@@ -31,7 +31,7 @@ Master in TESOL, University of Southern California, USA                         
 * CMPR.X405 Computational Intelligence - 3.5
 * CMPR.X416 Python for Programmers - 3.5
 
-# Experience & Projects
+## Experience & Projects
 
 ### Software Engineer Bootcamp, Laioffer    (May 2020 – Present)
 - Dedicated 60+ hours per week over 4 months to learn Java programming, data structure, algorithm, objected design oriented and system design
