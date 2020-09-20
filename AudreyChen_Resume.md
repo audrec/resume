@@ -15,6 +15,7 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 
 * Proficient: Java 
 * Familiar: Python, PHP, JavaScript, HTML
+* Tech stack: PHP, React(JavaScript), MySQL
 
 ## Relevant Coursework
 
@@ -52,5 +53,3 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 - Design a visitors log-in system for office use.
 - Implemented a CRUD (Create/Read/Update/Delete) for office administrator to manage tracking history.
 - Allow users to export data to Excel.
-
-Tech stack: PHP, React(JavaScript), MySQL
