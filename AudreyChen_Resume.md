@@ -1,21 +1,21 @@
 # Audrey Chen
 
-Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/in/audrec/
+Newark CA USA| [audreycjob@gmail.com] | https://www.linkedin.com/in/audrec/
 ## Summary
 - Strong programming skills of Data Structure and algorithm in JAVA.
 - Knowledge about Hadoop and large data technique.
 - Wide varieties of project experiences in Big Data(Hadoop).
 
 ## Education
-* Coding Bootcamp, LaiOffer, USA                                                        2020 - 2020
-* Computer Programming Certificate, UCSC Silicon Valley Extension, USA                  2018 - 2018
+* Coding Bootcamp, JiuZhangSuanFa, USA                                                  2020 - 2020
+* Computer Programming Certificate, UCSC Silicon Valley Extension, USA                  2018 - 2019
 * Master in TESOL, University of Southern California, USA                               2015 - 2017
 
 ## Skills
 
 * Proficient: Java 
-* Familiar: Python, PHP, JavaScript, HTML
-* Tech stack: PHP, React(JavaScript), MySQL
+* Familiar: C++, Python, PHP, JavaScript, HTML, CSS
+* Tech stack: Linux, AWS, Hadoop, Docker, PHP, React(JavaScript), MySQL(MAMP)
 
 ## Relevant Coursework
 
@@ -29,8 +29,13 @@ Newark CA USA| 213-361-5280|  [audreycjob@gmail.com] | https://www.linkedin.com/
 
 ## Experience & Projects
 
-### Software Engineer Bootcamp, Laioffer    (May 2020 – Present)
+### Software Engineer Bootcamp, JiuZhangSuanFa    (May 2020 – Present)
 - Dedicated 60+ hours per week over 4 months to learn Java programming, data structure, algorithm, objected design oriented and system design
+
+**Project:** YOUTUBE VIDEO PICKER 
+- Provide users with trendy video recommendation by genres from Youtube’s database.
+- Build a scoring matrix by using **Object-based collaborative filter**, utilizing **Co-Occurance Matrix** to categorize similar video, and combine them into a **merging matrix**.
+- Designed a **Collaborative Filtering** algorithm to boost suggesting precision based on similarity scores. • Do the performance test on Linux with 283 songs in 17 categories.
 
 **Project:** BEST WEBSITE RANKING
 
