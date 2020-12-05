@@ -32,10 +32,10 @@ Newark CA USA| [audreycjob@gmail.com] | https://www.linkedin.com/in/audrec/
 ### Software Engineer Bootcamp, JiuZhangSuanFa    (May 2020 – Present)
 - Dedicated 60+ hours per week over 4 months to learn Java programming, data structure, algorithm, objected design oriented and system design
 
-**Project:** YOUTUBE VIDEO PICKER 
-- Provide users with trendy video recommendation by genres from Youtube’s database.
-- Build a scoring matrix by using **Object-based collaborative filter**, utilizing **Co-Occurance Matrix** to categorize similar video, and combine them into a **merging matrix**.
-- Designed a **Collaborative Filtering** algorithm to boost suggesting precision based on similarity scores. • Do the performance test on Linux with 283 songs in 17 categories.
+**Project:** NETFLIX MOVIES PICKER 
+- Provide users with trendy movies recommendation by genres from Netflix’s database.
+- Build a scoring matrix by using **Object-based collaborative filter**, utilizing **Co-Occurance Matrix** to categorize similar movies, and combine them into a **merging matrix**.
+- Designed a **Collaborative Filtering** algorithm to boost suggesting precision based on similarity scores. • Do the performance test on Linux with 283 movies in 17 categories.
 
 **Project:** BEST WEBSITE RANKING
 
